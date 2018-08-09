@@ -18,3 +18,11 @@ My steps to learn Solr search engine
    *  [Denormalize](https://rubygarage.org/blog/database-denormalization-with-examples)
        : Database optimization is an essential step to improve website performance. Typically, developers normalize a relational database, meaning they restructure it to reduce data redundancy and enhance data integrity. However, sometimes normalizing a database isn’t enough, so to improve database performance even further developers go the other way around and resort to database denormalization.
 
+
+
+
+   *  [Denormalize](https://upload.wikimedia.org/wikipedia/commons/2/26/Precisionrecall.svg)
+   
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Precisionrecall.svg" style="    display: block;
+    margin: auto;
+    max-width: 100%;"/>
