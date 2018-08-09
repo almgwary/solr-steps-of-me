@@ -21,7 +21,7 @@ My steps to learn Solr search engine
 
 
 
-   *  [Denormalize](https://upload.wikimedia.org/wikipedia/commons/2/26/Precisionrecall.svg)
+   *  [Precision and recall](https://upload.wikimedia.org/wikipedia/commons/2/26/Precisionrecall.svg)
    
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Precisionrecall.svg" style="    display: block;
     margin: auto;
