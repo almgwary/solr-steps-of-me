@@ -12,5 +12,9 @@ My steps to learn Solr search engine
 
    *  [Configuring Solr for Optimum Performance](https://medium.com/tech-tajawal/tips-and-tricks-to-maximize-apache-solr-performance-74e8ea4f5c8d)
        : Apache Solr is widely used search engine. There are several famous platforms using Solr; Netflix and Instagram are some of the names. We have been using both Solr and ElasticSearch in our applications, here at tajawal. In this post, I am going to give you some tips on how to write optimized Schema files. We will not be discussing the basics of Solr and I expect you to be aware of how it works.
+       
+       
 
+   *  [Denormalize](https://rubygarage.org/blog/database-denormalization-with-examples)
+       : Database optimization is an essential step to improve website performance. Typically, developers normalize a relational database, meaning they restructure it to reduce data redundancy and enhance data integrity. However, sometimes normalizing a database isn’t enough, so to improve database performance even further developers go the other way around and resort to database denormalization.
 
